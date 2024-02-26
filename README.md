@@ -3,11 +3,11 @@
 ## Guidelines
 
 - git clone <repository_url>
-- after completion of clone run: composer install
+- run: composer install
 - make a copy of the .env.example file and rename it to .env and database configurations
-- php artisan key:generate
-- php artisan migrate
-- php artisan serve
+- run: php artisan key:generate
+- run: php artisan migrate
+- run: php artisan serve
 
 
 Requirements
